@@ -1,0 +1,15 @@
+{
+    "name": "zee/my-app",
+    "authors": [{
+        "name": "zee0099",
+        "email": "zee0000alkaser@outlook.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^5.1"
+    }
+}
